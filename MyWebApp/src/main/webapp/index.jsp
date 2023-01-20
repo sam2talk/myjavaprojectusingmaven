@@ -1,9 +1,5 @@
 <html>
 <body>
-<<<<<<< HEAD
-<h2>Welcome to Webhook from GitHub to Jenkins!!!</h2>
-=======
-<h2>Howdy Folks !!! Welcome to Devops! !!!!!!</h2>
->>>>>>> ec38379 (made change to jsp)
+<h2>Howdy Folks !!! Welcome to Devops!! Also, welcome to Webhook from GitHub</h2>
 </body>
 </html>
