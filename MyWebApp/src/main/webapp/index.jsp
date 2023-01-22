@@ -1,5 +1,21 @@
-<html>
-<body>
-<h2>Howdy Folks !!! Welcome to Devops!! Also, welcome to Webhook from GitHub</h2>
+<!Doctype  html>
+<htmln lanf="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Arsenal Page</title>
+	<style>
+		h1 {
+			color: red;
+		}
+		h3 {
+			background-color: blue;
+		}
+	</style>
+	</head>
+	<body>
+        <h1>Welcome to Arsenal Page!!!</h1>
+        <h3>Up gooner, for life!</h3>
+        Welcome Arsenal to 2023 UEFA champions league.
+
 </body>
 </html>
