@@ -1,4 +1,5 @@
-
+<!Doctype  html>
+<htmln lanf="en">
 	<head>
 		<meta charset="utf-8">
 		<title>Arsenal Page</title>
